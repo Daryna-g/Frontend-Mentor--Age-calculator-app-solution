@@ -35,8 +35,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/ping-coming-soon-page-solution-Ot5woVaAql)
-- Live Site URL: [Add live site URL here](https://daryna-g.github.io/Frontend-Mentor--Ping-coming-soon-page-solution/)
+- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/age-calculator-app-solution-5H_-qexF7x)
+- Live Site URL: [Add live site URL here](https://daryna-g.github.io/Frontend-Mentor--Age-calculator-app-solution/)
 
 ## My process
 
@@ -46,7 +46,6 @@ Users should be able to:
 - CSS custom properties
 - Flexbox
 - CSS Grid
-- Mobile-first workflow
 
 ## Author
 - Frontend Mentor - [@Daryna-g](https://www.frontendmentor.io/profile/Daryna-g)

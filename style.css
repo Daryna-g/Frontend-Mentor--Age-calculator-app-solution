@@ -55,14 +55,14 @@ body{
 	background-color: var(--White);
   	border-radius: 1.5rem 1.5rem 8rem 1.5rem;
   	padding: 3rem;
-  	max-width: 840px;
+  	max-width: 740px;
   	width: 100%;
   	box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
 }
 
 .age-form-container {
-	
 }
+
 .form-container {
 	display: flex;
   	gap: 2rem;
@@ -176,7 +176,7 @@ body{
 		padding: 1.5rem;
     	border-radius: 1.5rem 1.5rem 6rem 1.5rem;
 	}
-	.age-form-container {
+	.form-container {
 		gap: 1rem;
 		margin-bottom: 0;
 	}
