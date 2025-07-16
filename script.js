@@ -95,7 +95,7 @@ document.addEventListener('DOMContentLoaded', () => {
 		const today = new Date();
 		let years = today.getFullYear() - birthDate.getFullYear();
 		let months = today.getMonth() - birthDate.getMonth();
-		let days = today.getDay() - birthDate.getDay();
+		let days = today.getDate() - birthDate.getDate();
 
 		// Adjust if current day is less than birth day
 		if (days < 0) {
